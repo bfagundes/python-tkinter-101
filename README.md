@@ -1,8 +1,5 @@
-Under construciton
+This project contains code related to the `Tkinter` library, how to create GUI's with it and more. 
 
-To build the Environment inside project-root\.env
-pip install virtualenv
-virtualenv .env
-source .env/Scripts/activate
-pip install -r requirements.txt
-pip list
+## Requirements
+- Python 3.* 
+- `Tkinter` library
